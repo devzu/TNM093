@@ -19,5 +19,6 @@ Sök upp choropleth sen för hur ni gör med visualisering.
 Geojson + data fil
 https://devzu.github.io/TNM093/data.json
 
+Använd länkarna och hämta datan från direkt, eller gå in på länken och välj "save as". Antingen som json eller geojson. Men akta er som sagt för CORS komplikationer. 
 Om du använder detta, så ge mig en high five som tack iaf. 
 Lycka till. Har ni frågor är det bara att maila agnli457@student.liu.se 
